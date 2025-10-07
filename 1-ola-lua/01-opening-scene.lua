@@ -1,7 +1,7 @@
--- Opening Scene 
+-- Opening Scene 🌙
 -- Codédex
 
--- Game: Stardew Valley 
+-- Stardew Valley (2016)
 print("Oh, another day, another mountain of paperwork. There's got to be more to life than this.")
 print("I wish I could just get away from it all...")
 print("Maybe a change of scenery would do me good.")
