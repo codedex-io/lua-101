@@ -1,4 +1,4 @@
--- Player Card 
+-- Player Card 👤
 -- Codédex
 
 name = "Madeline"
