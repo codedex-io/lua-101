@@ -2,8 +2,8 @@
 -- Codédex
 
 characters = {
-    heroes = {"link", "mario", "zelda"},
-    villains = {"ganon", "bowser", "wario"}
+  heroes = {"link", "mario", "zelda"},
+  villains = {"ganon", "bowser", "wario"}
 }
 
 -- second hero
