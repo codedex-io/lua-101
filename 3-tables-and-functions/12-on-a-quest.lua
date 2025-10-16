@@ -12,7 +12,6 @@ quest.completed = true
 quest.difficulty = "hard"
 quest.reward = nil
 
-
 if quest.completed then
     print("You've completed the quest: " .. quest.name)
 end
