@@ -1,4 +1,4 @@
--- Heroes and Villains
+-- Heroes and Villains 🦹
 -- Codédex
 
 characters = {
