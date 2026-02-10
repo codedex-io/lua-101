@@ -19,7 +19,7 @@ while potions > 0 and heroHealth < 100 do
     print("Used a potion. Health is now " .. heroHealth)
 end
 
-for i = 0, 5 do
+for i = 1, 5 do
     level = level + 1
     print("Level up! Now at level " .. level)
 end
