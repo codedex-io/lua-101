@@ -12,6 +12,6 @@ local level = 10
 local health = 85
 
 print("Name: " .. name)
-print("Level: " .. level)  -- Fixed: was 'lvl', should be 'level'
+print("Level: " .. level)                                   -- Fixed: 'lvl' to 'level'
 print("Health: " .. health)
-print("Stats: " .. name .. " " .. level .. " " .. health)  -- Fixed: used '..' instead of '+' for concatenation
+print("Stats: " .. name .. " " .. level .. " " .. health)   -- Fixed: used '..' instead of '+' for concatenation
