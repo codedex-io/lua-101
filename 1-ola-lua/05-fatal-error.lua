@@ -1,4 +1,4 @@
--- Fatal Error
+-- Fatal Error 🐛
 -- Codédex
 
 --[[
@@ -7,9 +7,9 @@
     thank you for it...)
 ]]
 
-local name = "Eldrin"
-local level = 10
-local health = 85
+name = "Eldrin"
+level = 10
+health = 85
 
 print("Name: " .. name)
 print("Level: " .. level)                                   -- Fixed: 'lvl' to 'level'
