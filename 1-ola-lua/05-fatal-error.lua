@@ -1,7 +1,7 @@
 -- Fatal Error 🐛
 -- Codédex
 
-name = "Eldrin"
+name = "Eldrin"                                             -- Fixed: missing double quotes
 level = 10
 health = 85
 
