@@ -1,12 +1,6 @@
 -- Fatal Error 🐛
 -- Codédex
 
---[[
-    You've made it to the end. 
-    Fix the code below! (Your dev team will
-    thank you for it...)
-]]
-
 name = "Eldrin"
 level = 10
 health = 85
