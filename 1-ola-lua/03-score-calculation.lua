@@ -7,4 +7,4 @@ deaths = 2
 
 kda = (kills + assists) / deaths
 
-print("Your KDA ratio is " .. kda)
+print("Your KDA ratio is ", kda)
