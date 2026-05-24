@@ -2,7 +2,7 @@
 -- Codédex
 
 name = "Maxie"
-year = 2025 
+year = 2026 
 key = "A"
 
 part_credits = "Created by " .. name .. ", " .. year
