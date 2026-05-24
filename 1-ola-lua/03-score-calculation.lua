@@ -1,4 +1,4 @@
--- Score Calculation
+-- Score Calculation 🔫
 -- Codédex
 
 kills = 10
